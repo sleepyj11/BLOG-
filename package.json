@@ -1,0 +1,10 @@
+{
+  "name": "488-hours-blog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Weekly OJT journal for 488 hours",
+  "scripts": {
+    "dev": "node dev-server.js",
+    "start": "node dev-server.js"
+  }
+}
